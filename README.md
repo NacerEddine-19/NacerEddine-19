@@ -66,3 +66,7 @@ class Interests:
     <img alt="Flutter" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img alt="Dart" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 </div>
+
+
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=NacerEddine-19&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="NacerEddine" /></p>
+<p align="left"><img width="45%" align="left" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacerEddine-19&layout=compact&theme=radical&hide_border=true" alt="NacerEddine" /></p>
