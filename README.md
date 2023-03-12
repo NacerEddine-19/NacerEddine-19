@@ -29,9 +29,7 @@
 
 #
 
-- 🎯 I’m currently learning **`Next.js/React`** for the FrontEnd 
-
-- also **`PHP/Laravel`** for the BackEnd
+- 🎯 I’m currently learning **`Next.js/React`** **`PHP/Laravel`**for the FrontEnd/BackEnd
 
 <!--
 **NacerEddine-19/NacerEddine-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
