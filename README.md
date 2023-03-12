@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
     </a>
     <a href="https://www.discordapp.com/users/689985604087316503">
-      <img src="https://img.shields.io/badge/CMarghin-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Account"/>
+      <img src="https://img.shields.io/badge/NACEREDDINE-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Account"/>
     </a>
     <a href="https://twitter.com/NacerEd94535091">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
