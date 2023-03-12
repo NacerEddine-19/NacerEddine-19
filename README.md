@@ -30,6 +30,19 @@
 #
 
 - 🎯 I’m currently learning **`Next.js/React`** **`PHP/Laravel`** for the FrontEnd/BackEnd
+- ✨student at <a href="https://www.alxafrica.com/">Alx Program</a>
+
+```python
+class Interests:
+    def __init__(self, code,anime,sport,movie,chess):
+        self.code = code
+        self.anime = anime
+        self.sport = sport
+        self.movie = movie
+        self.chess = chess
+    def __str__(self):
+        return f"My Intrest are\n\t'{self.code}'\n\t'{self.anime}'\n\t'{self.sport}'\n\t'{self.movie}'\n\t'{self.chess}'"
+```
 
 <!--
 **NacerEddine-19/NacerEddine-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
