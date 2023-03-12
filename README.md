@@ -30,7 +30,7 @@
 #
 
 - 🎯 I’m currently learning **`Next.js/React`** **`PHP/Laravel`** for the FrontEnd/BackEnd
-- ✨student at <a href="https://www.alxafrica.com/">Alx Program</a>
+- ✨student at <a href="https://www.alxafrica.com/">Alx Program</a> // <a href="https://www.ofppt.ma/">ISTA NTIC</a>
 
 ```python
 class Interests:
