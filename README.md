@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <h1>
       🎈 I'M Nacer Eddine Majid
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
