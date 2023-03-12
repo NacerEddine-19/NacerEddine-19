@@ -48,21 +48,21 @@ class Interests:
 ### 🧰 Languages and Tools
 
 <div style="display=flex;">
-    <img alt="HTML" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img alt="CSS" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img alt="Bootstrap" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-    <img alt="JavaScript" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img alt="React" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img alt="NodeJS" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="Python" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img alt="Git" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="GitHub" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img alt="MongoDb" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img alt="PHP" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img alt="NextJs" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-    <img alt="TypeScript" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img alt="Linux" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img alt="GitLab" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-    <img alt="Flutter" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    <img alt="Dart" width="30px" style="padding-right:10px !important;aspect-ratio=1; align=left;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <img alt="HTML" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img alt="CSS" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img alt="Bootstrap" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+    <img alt="JavaScript" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img alt="React" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img alt="NodeJS" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="Python" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img alt="Git" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="GitHub" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img alt="MongoDb" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img alt="PHP" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img alt="NextJs" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+    <img alt="TypeScript" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img alt="Linux" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img alt="GitLab" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+    <img alt="Flutter" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img alt="Dart" width="30px" style="padding:10px !important;aspect-ratio=1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 </div>
