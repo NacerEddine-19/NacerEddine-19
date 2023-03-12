@@ -1,4 +1,9 @@
-### Hi there 👋
+<div>
+    <h1>
+      ### I'M Nacer Eddine Majid
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+  </div>
 
 <!--
 **NacerEddine-19/NacerEddine-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
