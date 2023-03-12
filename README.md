@@ -15,7 +15,7 @@
 <p>I am a passionate and driven junior developer with a solid foundation in programming languages. I am a fast learner, a dedicated problem solver, and comfortable working independently or as part of a team.</p>
 
 - 📫 How to reach me:
-<div id="badges">
+<div align="center" id="badges">
     <a href="https://www.linkedin.com/in/nacer-eddine-majid-bb0181262/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
     </a>
@@ -47,20 +47,20 @@ class Interests:
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="MongoDb" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="NextJs" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitLab" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Dart" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img alt="HTML" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img alt="CSS" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img alt="Bootstrap" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img alt="JavaScript" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img alt="React" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="NodeJS" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="Python" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img alt="Git" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img alt="MongoDb" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img alt="PHP" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img alt="NextJs" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img alt="TypeScript" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img alt="Linux" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alt="GitLab" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+<img alt="Flutter" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img alt="Dart" width="30px" style="padding-right:20px; margin-top:20px; aspect-ratio=1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
