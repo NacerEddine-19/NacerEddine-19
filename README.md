@@ -41,7 +41,8 @@ class Interests:
         self.movie = movie
         self.chess = chess
     def __str__(self):
-        return f"My Intrest are\n\t'{self.code}'\n\t'{self.anime}'\n\t'{self.sport}'\n\t'{self.movie}'\n\t'{self.chess}'"
+        return f"My Intrest are\n\t'{self.code}'\n\t'{self.anime}'
+        \n\t'{self.sport}'\n\t'{self.movie}'\n\t'{self.chess}'"
 ```
 
 <!--
