@@ -64,6 +64,3 @@ class Interests:
 <img align="left" alt="GitLab" width="30px" style="padding:10px;margin-top:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding:10px;margin-top:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="30px" style="padding:10px;margin-top:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-
-
-#
