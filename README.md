@@ -65,4 +65,4 @@ class Interests:
 <img align="left" alt="Flutter" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right:20px; margin-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 
-![alt Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg "title Dart")
+![alt Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg width="30px" "title Dart")
