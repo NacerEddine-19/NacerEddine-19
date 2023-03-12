@@ -63,7 +63,6 @@ class Interests:
 <img alt="Linux" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="GitLab" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img alt="Flutter" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img alt="Dart" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <br />
 
 #
