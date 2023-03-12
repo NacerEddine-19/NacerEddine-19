@@ -47,25 +47,27 @@ class Interests:
 
 ### 🧰 Languages and Tools
 
-  <img alt="HTML" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="Bootstrap" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img alt="JavaScript" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="React" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="NodeJS" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Python" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img alt="Git" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="MongoDb" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img alt="PHP" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="NextJs" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img alt="TypeScript" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img alt="Linux" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="GitLab" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-  <img alt="Flutter" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img alt="Dart" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img alt="HTML" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img alt="CSS" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img alt="Bootstrap" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img alt="JavaScript" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img alt="React" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="NodeJS" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="Python" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img alt="Git" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img alt="MongoDb" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img alt="PHP" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img alt="NextJs" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img alt="TypeScript" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img alt="Linux" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alt="GitLab" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+<img alt="Flutter" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img alt="Dart" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<br />
 
-  #
+#
+### 📊 Stats
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=NacerEddine-19&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="NacerEddine" /></p>
 <p align="left"><img width="45%" align="left" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacerEddine-19&layout=compact&theme=radical&hide_border=true" alt="NacerEddine" /></p>
