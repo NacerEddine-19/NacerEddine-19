@@ -74,5 +74,5 @@ class Interests:
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacerEddine-19&layout=compact&theme=radical&hide_border=true" alt="NacerEddine" />
   <img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NacerEddine-19&" alt="NacerEddine" />
 
-  <img width="45%" align="right" src="https://github.com/NacerEddine-19/NacerEddine-19/blob/main/code.gif" alt="Coding Gif">
+  <img width="100%" align="left" src="https://github.com/NacerEddine-19/NacerEddine-19/blob/main/code.gif" alt="Coding Gif">
 </div>
