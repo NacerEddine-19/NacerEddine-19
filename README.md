@@ -70,8 +70,8 @@ class Interests:
 ### 📊 Stats
 
 <div align="center" style="display:flex;">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=NacerEddine-19&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="NacerEddine" />
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacerEddine-19&layout=compact&theme=radical&hide_border=true" alt="NacerEddine" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=NacerEddine-19&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="NacerEddine" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacerEddine-19&layout=compact&theme=radical&hide_border=true" alt="NacerEddine" />
   <img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NacerEddine-19&" alt="NacerEddine" />
   <img width="60%" align="right" src="https://github.com/NacerEddine-19/NacerEddine-19/blob/main/code.gif" alt="Coding Gif">
 </div>
