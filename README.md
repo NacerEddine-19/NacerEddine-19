@@ -16,13 +16,13 @@
 
 - 📫 How to reach me:
 <div align="center" id="badges">
-    <a href="https://www.linkedin.com/in/nacer-eddine-majid-bb0181262/">
+    <a href="https://www.linkedin.com/in/nacer-eddine-majid-bb0181262/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
     </a>
-    <a href="https://www.discordapp.com/users/689985604087316503">
+    <a href="https://www.discordapp.com/users/689985604087316503" target="_blank">
       <img src="https://img.shields.io/badge/NACEREDDINE-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Account"/>
     </a>
-    <a href="https://twitter.com/NacerEd94535091">
+    <a href="https://twitter.com/NacerEd94535091" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
