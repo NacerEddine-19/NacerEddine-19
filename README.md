@@ -26,6 +26,8 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=NacerEddine-19&label=Profile%20views&color=0e75b6&style=flat" alt="NacerEddine Majid" /> </p>
 
 #
 
