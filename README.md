@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
 
-<p>I am a passionate and driven junior developer with a solid foundation in programming languages. I am a fast learner, a dedicated problem solver, and comfortable working independently or as part of a team.</p>
+<p>I am a passionate and driven developer with a solid foundation in programming languages. I am a fast learner, a dedicated problem solver, and comfortable working independently or as part of a team.</p>
 
 - 📫 How to reach me:
 <div align="center" id="badges">
