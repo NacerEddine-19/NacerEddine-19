@@ -2,18 +2,21 @@
 <div align="center">
     <h1>
       🎈 I'M Nacer Eddine Majid
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
     </h1>
   </div>
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&lines=I'm+Data+Scientist+/+Web+Developer"></a>
 </p>
 
 ---
 
 ### :man_technologist: About Me :
 
-<p>I am a passionate and driven developer with a solid foundation in programming languages. I am a fast learner, a dedicated problem solver, and comfortable working independently or as part of a team.</p>
+<p>
+    Passionate data scientist with expertise in machine learning, cybersecurity, and web development. Currently pursuing a Master's in Computer Science with a focus on AI applications in cybersecurity.
+   <br/>With experience in Python, JavaScript, and modern ML frameworks, I enjoy building practical solutions that make the internet safer for everyone.
+</p>
 
 - 📫 How to reach me:
 <div align="center" id="badges">
